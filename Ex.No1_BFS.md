@@ -37,9 +37,11 @@ def bfs(visited, graph, node):
                 queue.append(neighbour)
 
 print("Following is the breadth-first search")
-bfs(visited,graph,5) ```
+bfs(visited,graph,5)
+```
 ### Output:
-![image](https://github.com/user-attachments/assets/00fb947b-e00e-4eeb-b35e-82caab75e2b5)
+![image](https://github.com/user-attachments/assets/2e544ada-c52a-4c76-83da-a1b984b2f024)
+
 
 
 
